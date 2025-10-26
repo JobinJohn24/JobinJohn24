@@ -1,9 +1,6 @@
 # 👨‍💻🧬🔬 Jobin John 👨‍💻🧬🔬
 
-**`Data Science with a Concentration in Bioinformatics & Genomics`**
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00CFFF&width=435&lines=Bioinformatics+%7C+NASA+Research;Astroinformatics+%7C+Genomics;Data+Science+%7C+Astronaut+Health)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Obritron&pause=10000&color=39FF14&cursor=🛰️&fade=true&repeat=false&width=1000&lines=Bioinformatics+%7C+Genomics+%7C+Astroinformatics+%7C+Data+Science+%7C+Astronaut+Health)](https://git.io/typing-svg)
 
 ## Stats & dev activity
 
