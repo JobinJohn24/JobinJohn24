@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="assets/space_bg.jpg" alt="space background" width="100%">
+  <img src="assets/space_bg.jpeg" alt="space background" width="100%">
 </p>
-
-<h1 align="center" style="color:white;">Jobin John</h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Obritron&pause=10000&color=39FF14&cursor=🛰️&fade=true&repeat=false&width=1000&lines=Bioinformatics+%7C+Genomics+%7C+Astroinformatics+%7C+Data+Science+%7C+Astronaut+Health)](https://git.io/typing-svg)
 
