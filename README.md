@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Obritron&pause=10000&color=39FF14&cursor=%5F&fade=true&repeat=false&width=1000&lines=Bioinformatics+%7C+Genomics+%7C+Astroinformatics+%7C+Data+Science+%7C+Astronaut+Health)](https://git.io/typing-svg)
 
-## Stats & dev activity
+## Stats & Dev activity
 
 ![Jobins' GitHub stats](https://github-readme-stats.vercel.app/api?username=JobinJohn24&show_icons=true&theme=tokyonight)
 
