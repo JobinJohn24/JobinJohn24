@@ -4,6 +4,29 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Obritron&pause=10000&color=39FF14&cursor=%5F&fade=true&repeat=false&width=1000&lines=Bioinformatics+%7C+Genomics+%7C+Astroinformatics+%7C+Data+Science+%7C+Computational+Physics)](https://git.io/typing-svg)
 
+## Let's Connect!
+<p align="center">
+  <!-- GitHub -->
+  <a href="https://github.com/JobinJohn24" target="_blank" style="margin: 0 12px;">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/ffffff">
+      <img alt="GitHub" height="48" width="48" src="https://cdn.simpleicons.org/github/181717">
+    </picture>
+  </a>
+  <a href="https://discord.gg/HAUnqQsT" target="_blank" style="margin: 0 12px;">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/discord/ffffff">
+      <img alt="Discord" height="48" width="48" src="https://cdn.simpleicons.org/discord/5865F2">
+    </picture>
+  <a href="https://x.com/JJNBABets" target="_blank" style="margin: 0 12px;">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/x/ffffff">
+      <img alt="X (Twitter)" height="48" width="48" src="https://cdn.simpleicons.org/x/000000">
+    </picture>
+  </a>
+</p>
+
+
 ## Stats & Dev Activity
 
 ![Jobins' GitHub stats](https://github-readme-stats.vercel.app/api?username=JobinJohn24&show_icons=true&theme=tokyonight)
