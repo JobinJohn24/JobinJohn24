@@ -5,32 +5,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Obritron&pause=10000&color=39FF14&cursor=%5F&fade=true&repeat=false&width=1000&lines=Bioinformatics+%7C+Genomics+%7C+Astroinformatics+%7C+Data+Science+%7C+Computational+Physics)](https://git.io/typing-svg)
 
 ## Let's Connect!
-<p align="center">
-  <!-- GitHub -->
-  <a href="https://github.com/JobinJohn24" target="_blank" style="margin: 0 12px;">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/ffffff">
-      <img alt="GitHub" height="48" width="48" src="https://cdn.simpleicons.org/github/181717">
-    </picture>
-  </a>
-  <a href="https://discord.gg/HAUnqQsT" target="_blank" style="margin: 0 12px;">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/discord/ffffff">
-      <img alt="Discord" height="48" width="48" src="https://cdn.simpleicons.org/discord/5865F2">
-    </picture>
-  <a href="https://x.com/JJNBABets" target="_blank" style="margin: 0 12px;">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/x/ffffff">
-      <img alt="X (Twitter)" height="48" width="48" src="https://cdn.simpleicons.org/x/000000">
-    </picture>
-  </a>
-</p>
-
-
+[![LinkedIn: Jobin John](https://img.shields.io/badge/LinkedIn-Jobin%20John-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jobin-john-0a5942211/ "Connect on LinkedIn")
+[![Discord: Jobin John](https://img.shields.io/badge/Discord-Jobin%20John-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/WjEFnzC "Join me on Discord")
+[![Kaggle: Jobin John](https://img.shields.io/badge/Kaggle-Jobin%20John-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/yourkaggleusername "Check my Kaggle Projects")
+[![Codecademy: Jobin John](https://img.shields.io/badge/Codecademy-Jobin%20John-1F4056?style=for-the-badge&logo=codecademy&logoColor=white)](https://www.codecademy.com/profiles/yourcodecademyusername "View my Codecademy Profile")
 ## Stats & Dev Activity
-
 ![Jobins' GitHub stats](https://github-readme-stats.vercel.app/api?username=JobinJohn24&show_icons=true&theme=tokyonight)
-
 ## Languages, Frameworks & Tools
 
 <img align="left" alt="Java" width="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
