@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Obritron&pause=10000&color=39FF14&cursor=%5F&fade=true&repeat=false&width=1000&lines=Bioinformatics+%7C+Genomics+%7C+Astroinformatics+%7C+Data+Science+%7C+Computational+Physics)](https://git.io/typing-svg)
 
-## Let's Connect!
+  ## Let's Connect!
 [![LinkedIn: Jobin John](https://img.shields.io/badge/LinkedIn-Jobin%20John-0072b1?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jobin-john-0a5942211/ "Connect on LinkedIn")
 [![Discord: Jobin John](https://img.shields.io/badge/Discord-Jobin%20John-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/HAUnqQsT "Join me on Discord")
 [![Outlook: Jobin John](https://img.shields.io/badge/Outlook-Jobin%20John-0078D4?style=flat&logo=microsoftoutlook&logoColor=white)](mailto:tuh20214@temple.edu "Send me an Email")
