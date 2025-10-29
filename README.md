@@ -6,7 +6,7 @@
 
 ## Let's Connect!
 [![LinkedIn: Jobin John](https://img.shields.io/badge/LinkedIn-Jobin%20John-0072b1?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jobin-john-0a5942211/ "Connect on LinkedIn")
-[![Discord: Jobin John](https://img.shields.io/badge/Discord-Jobin%20John-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/WjEFnzC "Join me on Discord")
+[![Discord: Jobin John](https://img.shields.io/badge/Discord-Jobin%20John-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/HAUnqQsT "Join me on Discord")
 [![Outlook: Jobin John](https://img.shields.io/badge/Outlook-Jobin%20John-0078D4?style=flat&logo=microsoftoutlook&logoColor=white)](mailto:tuh20214@temple.edu "Send me an Email")
 [![Kaggle: Jobin John](https://img.shields.io/badge/Kaggle-Jobin%20John-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/JobinJohn8824 "Check my Kaggle Projects")
 [![Codecademy: Jobin John](https://img.shields.io/badge/Codecademy-Jobin%20John-1F4056?style=flat&logo=codecademy&logoColor=white)](https://www.codecademy.com/profiles/JobinJ24 "View my Codecademy Profile")
