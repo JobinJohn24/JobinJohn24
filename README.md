@@ -6,9 +6,10 @@
 
 ## Let's Connect!
 [![LinkedIn: Jobin John](https://img.shields.io/badge/LinkedIn-Jobin%20John-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jobin-john-0a5942211/ "Connect on LinkedIn")
-[![Discord: Jobin John](https://img.shields.io/badge/Discord-Jobin%20John-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/WjEFnzC "Join me on Discord")
-[![Kaggle: Jobin John](https://img.shields.io/badge/Kaggle-Jobin%20John-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/yourkaggleusername "Check my Kaggle Projects")
-[![Codecademy: Jobin John](https://img.shields.io/badge/Codecademy-Jobin%20John-1F4056?style=for-the-badge&logo=codecademy&logoColor=white)](https://www.codecademy.com/profiles/yourcodecademyusername "View my Codecademy Profile")
+[![Discord: Jobin John](https://img.shields.io/badge/Discord-Jobin%20John-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/HAUnqQsT "Join me on Discord")
+[![Kaggle: Jobin John](https://img.shields.io/badge/Kaggle-Jobin%20John-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/jobinjohn8824 "Check my Kaggle Projects")
+[![Codecademy: Jobin John](https://img.shields.io/badge/Codecademy-Jobin%20John-1F4056?style=for-the-badge&logo=codecademy&logoColor=white)](https://www.codecademy.com/profiles/JobinJohn24/ "View my Codecademy Profile")
+
 ## Stats & Dev Activity
 ![Jobins' GitHub stats](https://github-readme-stats.vercel.app/api?username=JobinJohn24&show_icons=true&theme=tokyonight)
 ## Languages, Frameworks & Tools
