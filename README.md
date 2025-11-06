@@ -2,7 +2,7 @@
   <img src="./assets/header.gif" alt="Jobin John Header" width="100%">
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=smooch+sans&weight=900&size=63&duration=1800&color=13F704&center=true&vCenter=true&multiline=true&width=2100&height=300&lines=Bioinformatics+%7C+Genomics;Astroinformatics+%7C+Computational+Physics;Data+Science+concentrated+in+Bioinformatics+%26+Genomics)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=46&duration=1900&pause=200&color=FF1449C5&background=550F0700&center=true&vCenter=true&multiline=true&width=1900&height=200&lines=Bioinformatics+%7C+Genomics+%7C+Computational+Physics+%7C+Astroinformatics;Data+Science+concentrated+in+Bioinformatics+%26+Genomics)](https://git.io/typing-svg)
 
   ## Let's Connect!
 [![LinkedIn: Jobin John](https://img.shields.io/badge/LinkedIn-Jobin%20John-0072b1?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jobin-john-0a5942211/ "Connect on LinkedIn")
