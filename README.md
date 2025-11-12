@@ -8,7 +8,7 @@
 [![LinkedIn: Jobin John](https://img.shields.io/badge/LinkedIn-Jobin%20John-0072b1?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jobin-john-0a5942211/ "Connect on LinkedIn")
 [![Discord: Jobin John](https://img.shields.io/badge/Discord-Jobin%20John-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/HAUnqQsT "Join me on Discord")
 [![Kaggle: Jobin John](https://img.shields.io/badge/Kaggle-Jobin%20John-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/JobinJohn8824 "Check my Kaggle Projects")
-[![Codecademy: Jobin John](https://img.shields.io/badge/Codecademy-Jobin%20John-1F4056?style=flat&logo=codecademy&logoColor=white)](https://www.codecademy.com/profiles/JobinJohn24 "View my Codecademy Profile")
+[![Orcid: Jobin John](https://img.shields.io/badge/Orcid-Jobin%20John-1F4056?style=flat&logo=Orcid&logoColor=white)](https://orcid.org/0009-0008-6925-1234 "View my Orcid Profile")
 
 ## 💻 Tech Stack
 <div style="display: flex; align-items: flex-start; align: center">
