@@ -22,6 +22,33 @@
   </tr>
 </table>
 
+### 🧠 Artificial Intelligence, LLMs & Quantum Computing
+<table align="center">
+  <tr>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow"/><br><b>TensorFlow</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch"/><br><b>PyTorch</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/openai.svg" width="42" height="42" style="filter: invert(35%) sepia(10%) saturate(1200%) hue-rotate(120deg) brightness(90%) contrast(85%);" alt="ChatGPT"/><br><b>ChatGPT</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/anthropic.svg" width="42" height="42" style="filter: invert(40%) sepia(30%) saturate(1400%) hue-rotate(15deg) brightness(85%) contrast(90%);" alt="Claude"/><br><b>Claude AI</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlegemini.svg" width="42" height="42" alt="Gemini"/><br><b>Gemini</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=workers" width="48" height="48" alt="Llama 3"/><br><b>Llama 3 / Local</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="Qiskit"/><br><b>Qiskit / Quantum</b>
+    </td>
+  </tr>
+</table>
+
 ### ⚛️ Computational Physics & Modeling
 <table align="center">
   <tr>
@@ -31,17 +58,7 @@
   </tr>
 </table>
 
-### 🧠 Data Science & AI/ML
-<table align="center">
-  <tr>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="NumPy/SciPy"/><br><b>NumPy / SciPy</b></td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="Scikit-Learn"/><br><b>Scikit-Learn</b></td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow"/><br><b>TensorFlow</b></td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch"/><br><b>PyTorch</b></td>
-  </tr>
-</table>
-
-### 🚀 Programming Languages
+### 🚀 Core Programming Languages
 <table align="center">
   <tr>
     <td align="center" width="120"><img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python"/><br><b>Python</b></td>
@@ -51,34 +68,34 @@
   </tr>
 </table>
 
-### 🛡️ Cybersecurity & Systems
+### 🛡️ Cybersecurity, Networking & Low-Level Hooks
 <table align="center">
   <tr>
     <td align="center" width="120"><img src="https://skillicons.dev/icons?i=kali" width="48" height="48" alt="Kali Linux"/><br><b>Kali Linux</b></td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=regex" width="48" height="48" alt="Regex"/><br><b>Regex Analysis</b></td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=powershell" width="48" height="48" alt="PowerShell"/><br><b>PowerShell</b></td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Network Security"/><br><b>Wireshark / Net</b></td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=regex" width="48" height="48" alt="Regex Processing"/><br><b>Regex / Parsing</b></td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=powershell" width="48" height="48" alt="PowerShell Systems"/><br><b>PowerShell</b></td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Network Analysis"/><br><b>Wireshark / Net</b></td>
   </tr>
 </table>
 
-### 🛠️ Infrastructure & DevOps
+### 🛠️ Infrastructure, Cloud & Build Tools
 <table align="center">
   <tr>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash"/><br><b>Bash / Shell</b></td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker"/><br><b>Docker</b></td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes"/><br><b>Kubernetes</b></td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS"/><br><b>AWS</b></td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/><br><b>Git / GitHub</b></td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash / Shell"/><br><b>Bash / Shell</b></td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker Containers"/><br><b>Docker</b></td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes Clusters"/><br><b>Kubernetes</b></td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS Cloud"/><br><b>AWS</b></td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git Version Control"/><br><b>Git / GitHub</b></td>
   </tr>
 </table>
 
-### 🖥️ Operating Systems & Environments
+### 🖥️ Platform Support & Hardware Architecture
 <table align="center">
   <tr>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux"/><br><b>Linux (Generic)</b></td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=ubuntu" width="48" height="48" alt="Ubuntu"/><br><b>Ubuntu</b></td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=windows" width="48" height="48" alt="Windows"/><br><b>Windows</b></td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code"/><br><b>VS Code</b></td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux Kernel"/><br><b>Linux Kernel</b></td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=ubuntu" width="48" height="48" alt="Ubuntu Server"/><br><b>Ubuntu OS</b></td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=windows" width="48" height="48" alt="Windows Host"/><br><b>Windows Host</b></td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code IDE"/><br><b>VS Code</b></td>
   </tr>
 </table>
 <p align="center">
