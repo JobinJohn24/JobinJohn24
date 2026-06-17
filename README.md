@@ -58,7 +58,7 @@
   </tr>
 </table>
 
-### 🚀 Core Programming Languages
+### 🚀 Programming Languages
 <table align="center">
   <tr>
     <td align="center" width="120"><img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python"/><br><b>Python</b></td>
