@@ -11,83 +11,74 @@
 [![Orcid: Jobin John](https://img.shields.io/badge/Orcid-Jobin%20John-1F4056?style=flat&logo=Orcid&logoColor=white)](https://orcid.org/0009-0008-6925-1234 "View my Orcid Profile")
 
 ## 💻 Tech Stack
-<div style="display: flex; align-items: flex-start; align: center">
+
+### 🧬 Bioinformatics & Genomics
 <table align="center">
-
-  <!-- Frontend -->
   <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-      <br>HTML
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
-      <br>React
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-      <br>Node.js
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
-      <br>TypeScript
-    </td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=r" width="48" height="48" alt="Bioconductor / R"/><br><b>Bioconductor / R</b></td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="BioPython"/><br><b>BioPython</b></td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="Genomic Databases"/><br><b>Genomic DBs</b></td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Sequence Processing"/><br><b>Pipeline Tools</b></td>
   </tr>
-
-  <!-- Backend / Data Science -->
-  <tr>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-      <br>Python
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
-      <br>Java
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=r" width="48" height="48" alt="R" />
-      <br>R
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="SQL" />
-      <br>SQL
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
-      <br>C++
-    </td>
-  </tr>
-
-  <!-- Tools -->
-  <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" />
-      <br>Bash / Shell
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
-      <br>GitHub
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-      <br>VS Code
-    </td>
-  </tr>
-
 </table>
-<br><br>
-</div>
 
+### ⚛️ Computational Physics & Modeling
+<table align="center">
+  <tr>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=matlab" width="48" height="48" alt="MATLAB"/><br><b>MATLAB</b></td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++ Simulation"/><br><b>C++ Simulation</b></td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="SciPy / Simulations"/><br><b>SciPy Engines</b></td>
+  </tr>
+</table>
+
+### 🧠 Data Science & AI/ML
+<table align="center">
+  <tr>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="NumPy/SciPy"/><br><b>NumPy / SciPy</b></td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="Scikit-Learn"/><br><b>Scikit-Learn</b></td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow"/><br><b>TensorFlow</b></td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch"/><br><b>PyTorch</b></td>
+  </tr>
+</table>
+
+### 🚀 Core Programming Languages
+<table align="center">
+  <tr>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python"/><br><b>Python</b></td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=r" width="48" height="48" alt="R"/><br><b>R</b></td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++"/><br><b>C++</b></td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript"/><br><b>JavaScript</b></td>
+  </tr>
+</table>
+
+### 🛡️ Cybersecurity & Systems
+<table align="center">
+  <tr>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=kali" width="48" height="48" alt="Kali Linux"/><br><b>Kali Linux</b></td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=regex" width="48" height="48" alt="Regex"/><br><b>Regex Analysis</b></td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=powershell" width="48" height="48" alt="PowerShell"/><br><b>PowerShell</b></td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Network Security"/><br><b>Wireshark / Net</b></td>
+  </tr>
+</table>
+
+### 🛠️ Infrastructure & DevOps
+<table align="center">
+  <tr>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash"/><br><b>Bash / Shell</b></td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker"/><br><b>Docker</b></td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes"/><br><b>Kubernetes</b></td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS"/><br><b>AWS</b></td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/><br><b>Git / GitHub</b></td>
+  </tr>
+</table>
+
+### 🖥️ Operating Systems & Environments
+<table align="center">
+  <tr>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux"/><br><b>Linux (Generic)</b></td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=ubuntu" width="48" height="48" alt="Ubuntu"/><br><b>Ubuntu</b></td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=windows" width="48" height="48" alt="Windows"/><br><b>Windows</b></td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code"/><br><b>VS Code</b></td>
+  </tr>
+</table>
 <p align="center">
