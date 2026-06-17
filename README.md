@@ -49,7 +49,7 @@
   </tr>
 </table>
 
-### ⚛️ Computational Physics & Modeling
+### ⚛️ Computational Modeling
 <table align="center">
   <tr>
     <td align="center" width="120"><img src="https://skillicons.dev/icons?i=matlab" width="48" height="48" alt="MATLAB"/><br><b>MATLAB</b></td>
