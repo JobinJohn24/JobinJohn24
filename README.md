@@ -13,18 +13,17 @@
 ## 💻 Tech Stack
 
 **Bioinformatics & Genomics**
-
-<img src="https://cdn.simpleicons.org/r" width="18"/> Bioconductor/R &nbsp; <img src="https://cdn.simpleicons.org/python" width="18"/> BioPython &nbsp; <img src="https://cdn.simpleicons.org/sqlite" width="18"/> Genomic DBs &nbsp; Pipeline Tools
+![R](https://img.shields.io/badge/Bioconductor%2FR-276DC3?style=flat-square&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/BioPython-3776AB?style=flat-square&logo=python&logoColor=white) ![SQLite](https://img.shields.io/badge/Genomic%20DBs-003B57?style=flat-square&logo=sqlite&logoColor=white) ![Pipeline](https://img.shields.io/badge/Pipeline%20Tools-4B8BBE?style=flat-square&logoColor=white)
  
 **AI, LLMs & Quantum Computing**
-<img src="https://cdn.simpleicons.org/tensorflow" width="18"/> TensorFlow &nbsp; <img src="https://cdn.simpleicons.org/pytorch" width="18"/> PyTorch &nbsp; <img src="https://cdn.simpleicons.org/openai" width="18"/> ChatGPT &nbsp; Claude AI &nbsp; Gemini &nbsp; <img src="https://cdn.simpleicons.org/meta" width="18"/> Llama 3 &nbsp; Qiskit
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![OpenAI](https://img.shields.io/badge/ChatGPT-412991?style=flat-square&logo=openai&logoColor=white) ![Claude](https://img.shields.io/badge/Claude%20AI-D97757?style=flat-square&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logoColor=white) ![Meta](https://img.shields.io/badge/Llama%203-0467DF?style=flat-square&logo=meta&logoColor=white) ![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=flat-square&logoColor=white)
  
 **Computational Modeling**
-<img src="https://cdn.simpleicons.org/matlab" width="18"/> MATLAB &nbsp; <img src="https://cdn.simpleicons.org/cplusplus" width="18"/> C++ Simulation &nbsp; <img src="https://cdn.simpleicons.org/scipy" width="18"/> SciPy
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=matlab&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B%20Simulation-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
  
 **Languages**
-<img src="https://cdn.simpleicons.org/python" width="18"/> Python &nbsp; <img src="https://cdn.simpleicons.org/r" width="18"/> R &nbsp; <img src="https://cdn.simpleicons.org/cplusplus" width="18"/> C++ &nbsp; <img src="https://cdn.simpleicons.org/javascript" width="18"/> JavaScript
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
  
 **Cybersecurity & Networking**
-<img src="https://cdn.simpleicons.org/kalilinux" width="18"/> Kali Linux &nbsp; Regex/Parsing &nbsp; <img src="https://cdn.simpleicons.org/powershell" width="18"/> PowerShell &nbsp; <img src="https://cdn.simpleicons.org/wireshark" width="18"/> Wireshark
+![Kali](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white) ![Regex](https://img.shields.io/badge/Regex%2FParsing-000000?style=flat-square&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
  
