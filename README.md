@@ -12,90 +12,19 @@
 
 ## 💻 Tech Stack
 
-### 🧬 Bioinformatics & Genomics
-<table align="center">
-  <tr>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=r" width="48" height="48" alt="Bioconductor / R"/><br><b>Bioconductor / R</b></td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="BioPython"/><br><b>BioPython</b></td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="Genomic Databases"/><br><b>Genomic DBs</b></td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Sequence Processing"/><br><b>Pipeline Tools</b></td>
-  </tr>
-</table>
+**Bioinformatics & Genomics**
 
-### 🧠 Artificial Intelligence, LLMs & Quantum Computing
-<table align="center">
-  <tr>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow"/><br><b>TensorFlow</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch"/><br><b>PyTorch</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/openai.svg" width="42" height="42" style="filter: invert(35%) sepia(10%) saturate(1200%) hue-rotate(120deg) brightness(90%) contrast(85%);" alt="ChatGPT"/><br><b>ChatGPT</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/anthropic.svg" width="42" height="42" style="filter: invert(40%) sepia(30%) saturate(1400%) hue-rotate(15deg) brightness(85%) contrast(90%);" alt="Claude"/><br><b>Claude AI</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlegemini.svg" width="42" height="42" alt="Gemini"/><br><b>Gemini</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=workers" width="48" height="48" alt="Llama 3"/><br><b>Llama 3 / Local</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="Qiskit"/><br><b>Qiskit / Quantum</b>
-    </td>
-  </tr>
-</table>
-
-### ⚛️ Computational Modeling
-<table align="center">
-  <tr>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=matlab" width="48" height="48" alt="MATLAB"/><br><b>MATLAB</b></td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++ Simulation"/><br><b>C++ Simulation</b></td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="SciPy / Simulations"/><br><b>SciPy Engines</b></td>
-  </tr>
-</table>
-
-### 🚀 Programming Languages
-<table align="center">
-  <tr>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python"/><br><b>Python</b></td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=r" width="48" height="48" alt="R"/><br><b>R</b></td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++"/><br><b>C++</b></td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript"/><br><b>JavaScript</b></td>
-  </tr>
-</table>
-
-### 🛡️ Cybersecurity, Networking & Low-Level Hooks
-<table align="center">
-  <tr>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=kali" width="48" height="48" alt="Kali Linux"/><br><b>Kali Linux</b></td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=regex" width="48" height="48" alt="Regex Processing"/><br><b>Regex / Parsing</b></td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=powershell" width="48" height="48" alt="PowerShell Systems"/><br><b>PowerShell</b></td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Network Analysis"/><br><b>Wireshark / Net</b></td>
-  </tr>
-</table>
-
-### 🛠️ Infrastructure, Cloud & Build Tools
-<table align="center">
-  <tr>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash / Shell"/><br><b>Bash / Shell</b></td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker Containers"/><br><b>Docker</b></td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes Clusters"/><br><b>Kubernetes</b></td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS Cloud"/><br><b>AWS</b></td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git Version Control"/><br><b>Git / GitHub</b></td>
-  </tr>
-</table>
-
-### 🖥️ Platform Support & Hardware Architecture
-<table align="center">
-  <tr>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux Kernel"/><br><b>Linux Kernel</b></td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=ubuntu" width="48" height="48" alt="Ubuntu Server"/><br><b>Ubuntu OS</b></td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=windows" width="48" height="48" alt="Windows Host"/><br><b>Windows Host</b></td>
-    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code IDE"/><br><b>VS Code</b></td>
-  </tr>
-</table>
-<p align="center">
+<img src="https://cdn.simpleicons.org/r" width="18"/> Bioconductor/R &nbsp; <img src="https://cdn.simpleicons.org/python" width="18"/> BioPython &nbsp; <img src="https://cdn.simpleicons.org/sqlite" width="18"/> Genomic DBs &nbsp; Pipeline Tools
+ 
+**AI, LLMs & Quantum Computing**
+<img src="https://cdn.simpleicons.org/tensorflow" width="18"/> TensorFlow &nbsp; <img src="https://cdn.simpleicons.org/pytorch" width="18"/> PyTorch &nbsp; <img src="https://cdn.simpleicons.org/openai" width="18"/> ChatGPT &nbsp; Claude AI &nbsp; Gemini &nbsp; <img src="https://cdn.simpleicons.org/meta" width="18"/> Llama 3 &nbsp; Qiskit
+ 
+**Computational Modeling**
+<img src="https://cdn.simpleicons.org/matlab" width="18"/> MATLAB &nbsp; <img src="https://cdn.simpleicons.org/cplusplus" width="18"/> C++ Simulation &nbsp; <img src="https://cdn.simpleicons.org/scipy" width="18"/> SciPy
+ 
+**Languages**
+<img src="https://cdn.simpleicons.org/python" width="18"/> Python &nbsp; <img src="https://cdn.simpleicons.org/r" width="18"/> R &nbsp; <img src="https://cdn.simpleicons.org/cplusplus" width="18"/> C++ &nbsp; <img src="https://cdn.simpleicons.org/javascript" width="18"/> JavaScript
+ 
+**Cybersecurity & Networking**
+<img src="https://cdn.simpleicons.org/kalilinux" width="18"/> Kali Linux &nbsp; Regex/Parsing &nbsp; <img src="https://cdn.simpleicons.org/powershell" width="18"/> PowerShell &nbsp; <img src="https://cdn.simpleicons.org/wireshark" width="18"/> Wireshark
+ 
