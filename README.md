@@ -9,6 +9,8 @@
 [![Discord: Jobin John](https://img.shields.io/badge/Discord-Jobin%20John-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/HAUnqQsT "Join me on Discord")
 [![Kaggle: Jobin John](https://img.shields.io/badge/Kaggle-Jobin%20John-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/JobinJohn8824 "Check my Kaggle Projects")
 [![Orcid: Jobin John](https://img.shields.io/badge/Orcid-Jobin%20John-1F4056?style=flat&logo=Orcid&logoColor=white)](https://orcid.org/0009-0008-6925-1234 "View my Orcid Profile")
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-000000?style=flat&logo=vercel&logoColor=white)](https://portfolio-rust-eight-73.vercel.app/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-jobinjohn24-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/jobinjohn24/)
 
 ## 💻 Tech Stack
 
