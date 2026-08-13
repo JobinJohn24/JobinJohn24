@@ -25,5 +25,18 @@
   **Security:** <img src="https://api.iconify.design/simple-icons:kalilinux.svg?color=%23557C94" alt="" height="32"/> <img src="https://api.iconify.design/simple-icons:wireshark.svg?color=%231679A7" alt="" height="32"/> <img src="https://api.iconify.design/simple-icons:powershell.svg?color=%235391FE" alt="" height="32"/>
 
   **Cloud:** <img src="https://api.iconify.design/simple-icons:amazonaws.svg?color=%23FF9900" alt="" height="32"/> <img src="https://api.iconify.design/simple-icons:docker.svg?color=%232496ED" alt="" height="32"/> <img src="https://api.iconify.design/simple-icons:githubactions.svg?color=%232088FF" alt="" height="32"/> <img src="https://api.iconify.design/simple-icons:git.svg?color=%23F05032" alt="" height="32"/>
- 
-</details>
+
+## 🔨 Currently Working On
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4facfe,100:a55eea&height=3&animation=fadeIn" width="100%"/>
+
+**Histopath_Agent** — AI model that reads breast tissue scans and classifies them by cancer risk, then writes up the findings in plain, readable language instead of just spitting out a number, tackling both the diagnosis and the trust problem that keeps a lot of medical AI out of real clinical use
+
+<br/>
+<img src="https://api.iconify.design/simple-icons:python.svg?color=%233776AB" height="28"/> <img src="https://api.iconify.design/simple-icons:pytorch.svg?color=%23EE4C2C" height="28"/> <img src="https://api.iconify.design/simple-icons:tensorflow.svg?color=%23FF6F00" height="28"/>
+<br/>
+
+**Cloud Cost Optimizer** — A SaaS tool that connects securely to a company's AWS account, spots the wasted spend hiding in idle or oversized resources, and turns that into clear savings recommendations, built as a real product with billing baked in from day one rather than just a portfolio demo.
+
+<br/>
+<img src="https://api.iconify.design/simple-icons:python.svg?color=%233776AB" height="28"/> <img src="https://api.iconify.design/simple-icons:amazonaws.svg?color=%23FF9900" height="28"/> <img src="https://api.iconify.design/simple-icons:amazoncloudwatch.svg?color=%23FF4F8B" height="28"/>
