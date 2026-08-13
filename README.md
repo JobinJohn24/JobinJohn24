@@ -14,33 +14,47 @@
 
 ## 💻 Tech Stack
  
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4facfe,100:a55eea&height=3&animation=fadeIn" width="100%"/>
+ 
 **🧬 Bioinformatics & Genomics**
  
-<img src="https://api.iconify.design/simple-icons:bioconductor.svg?color=%23276DC3" alt="Bioconductor/R" title="Bioconductor/R" height="40"/> <img src="https://api.iconify.design/simple-icons:python.svg?color=%233776AB" alt="BioPython" title="BioPython" height="40"/> <img src="https://api.iconify.design/simple-icons:pandas.svg?color=%23150458" alt="pandas" title="pandas" height="40"/> <img src="https://api.iconify.design/simple-icons:numpy.svg?color=%23013243" alt="NumPy" title="NumPy" height="40"/>
+<img src="https://api.iconify.design/simple-icons:bioconductor.svg?color=%23276DC3" alt="Bioconductor/R" title="Bioconductor/R" height="36"/> <img src="https://api.iconify.design/simple-icons:python.svg?color=%233776AB" alt="BioPython" title="BioPython" height="36"/> <img src="https://api.iconify.design/simple-icons:pandas.svg?color=%23150458" alt="pandas" title="pandas" height="36"/> <img src="https://api.iconify.design/simple-icons:numpy.svg?color=%23013243" alt="NumPy" title="NumPy" height="36"/>
+ 
+ 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4facfe,100:a55eea&height=3&animation=fadeIn" width="100%"/>
  
 **🤖 AI, LLMs & Quantum Computing**
  
-<img src="https://api.iconify.design/simple-icons:tensorflow.svg?color=%23FF6F00" alt="TensorFlow" title="TensorFlow" height="40"/> <img src="https://api.iconify.design/simple-icons:pytorch.svg?color=%23EE4C2C" alt="PyTorch" title="PyTorch" height="40"/> <img src="https://api.iconify.design/simple-icons:openai.svg?color=%23412991" alt="ChatGPT" title="ChatGPT" height="40"/> <img src="https://api.iconify.design/simple-icons:claude.svg?color=%23D97757" alt="Claude AI" title="Claude AI" height="40"/> <img src="https://api.iconify.design/simple-icons:googlegemini.svg?color=%238E75B2" alt="Gemini" title="Gemini" height="40"/> <img src="https://api.iconify.design/simple-icons:meta.svg?color=%230467DF" alt="Llama 3" title="Llama 3" height="40"/> <img src="https://api.iconify.design/simple-icons:qiskit.svg?color=%236929C4" alt="Qiskit" title="Qiskit" height="40"/>
+<img src="https://api.iconify.design/simple-icons:tensorflow.svg?color=%23FF6F00" alt="TensorFlow" title="TensorFlow" height="36"/> <img src="https://api.iconify.design/simple-icons:pytorch.svg?color=%23EE4C2C" alt="PyTorch" title="PyTorch" height="36"/> <img src="https://api.iconify.design/simple-icons:openai.svg?color=%23412991" alt="ChatGPT" title="ChatGPT" height="36"/> <img src="https://api.iconify.design/simple-icons:claude.svg?color=%23D97757" alt="Claude AI" title="Claude AI" height="36"/> <img src="https://api.iconify.design/simple-icons:googlegemini.svg?color=%238E75B2" alt="Gemini" title="Gemini" height="36"/> <img src="https://api.iconify.design/simple-icons:meta.svg?color=%230467DF" alt="Llama 3" title="Llama 3" height="36"/> <img src="https://api.iconify.design/simple-icons:qiskit.svg?color=%236929C4" alt="Qiskit" title="Qiskit" height="36"/>
+ 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4facfe,100:a55eea&height=3&animation=fadeIn" width="100%"/>
  
 **🔬 Computational Modeling**
  
-<img src="https://api.iconify.design/simple-icons:cplusplus.svg?color=%2300599C" alt="C++ Simulation" title="C++ Simulation" height="40"/> <img src="https://api.iconify.design/simple-icons:scipy.svg?color=%238CAAE6" alt="SciPy" title="SciPy" height="40"/>
-
+<img src="https://api.iconify.design/simple-icons:cplusplus.svg?color=%2300599C" alt="C++ Simulation" title="C++ Simulation" height="36"/> <img src="https://api.iconify.design/simple-icons:scipy.svg?color=%238CAAE6" alt="SciPy" title="SciPy" height="36"/>
+ 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4facfe,100:a55eea&height=3&animation=fadeIn" width="100%"/>
  
 **⌨️ Languages**
  
-<img src="https://api.iconify.design/simple-icons:python.svg?color=%233776AB" alt="Python" title="Python" height="40"/> <img src="https://api.iconify.design/simple-icons:r.svg?color=%23276DC3" alt="R" title="R" height="40"/> <img src="https://api.iconify.design/simple-icons:cplusplus.svg?color=%2300599C" alt="C++" title="C++" height="40"/> <img src="https://api.iconify.design/simple-icons:javascript.svg?color=%23F7DF1E" alt="JavaScript" title="JavaScript" height="40"/>
+<img src="https://api.iconify.design/simple-icons:python.svg?color=%233776AB" alt="Python" title="Python" height="36"/> <img src="https://api.iconify.design/simple-icons:r.svg?color=%23276DC3" alt="R" title="R" height="36"/> <img src="https://api.iconify.design/simple-icons:cplusplus.svg?color=%2300599C" alt="C++" title="C++" height="36"/> <img src="https://api.iconify.design/simple-icons:javascript.svg?color=%23F7DF1E" alt="JavaScript" title="JavaScript" height="36"/>
+ 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4facfe,100:a55eea&height=3&animation=fadeIn" width="100%"/>
  
 **🗄️ Databases**
  
-<img src="https://api.iconify.design/simple-icons:postgresql.svg?color=%234169E1" alt="PostgreSQL" title="PostgreSQL" height="40"/> <img src="https://api.iconify.design/simple-icons:sqlite.svg?color=%23003B57" alt="SQLite" title="SQLite" height="40"/> <img src="https://api.iconify.design/simple-icons:mongodb.svg?color=%2347A248" alt="MongoDB" title="MongoDB" height="40"/>
-
+<img src="https://api.iconify.design/simple-icons:postgresql.svg?color=%234169E1" alt="PostgreSQL" title="PostgreSQL" height="36"/> <img src="https://api.iconify.design/simple-icons:sqlite.svg?color=%23003B57" alt="SQLite" title="SQLite" height="36"/> <img src="https://api.iconify.design/simple-icons:mongodb.svg?color=%2347A248" alt="MongoDB" title="MongoDB" height="36"/>
+ 
+ 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4facfe,100:a55eea&height=3&animation=fadeIn" width="100%"/>
  
 **🔒 Cybersecurity & Networking**
  
-<img src="https://api.iconify.design/simple-icons:kalilinux.svg?color=%23557C94" alt="Kali Linux" title="Kali Linux" height="40"/> <img src="https://api.iconify.design/simple-icons:powershell.svg?color=%235391FE" alt="PowerShell" title="PowerShell" height="40"/> <img src="https://api.iconify.design/simple-icons:wireshark.svg?color=%231679A7" alt="Wireshark" title="Wireshark" height="40"/>
+<img src="https://api.iconify.design/simple-icons:kalilinux.svg?color=%23557C94" alt="Kali Linux" title="Kali Linux" height="36"/> <img src="https://api.iconify.design/simple-icons:powershell.svg?color=%235391FE" alt="PowerShell" title="PowerShell" height="36"/> <img src="https://api.iconify.design/simple-icons:wireshark.svg?color=%231679A7" alt="Wireshark" title="Wireshark" height="36"/>
  
-
+ 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4facfe,100:a55eea&height=3&animation=fadeIn" width="100%"/>
+ 
 **☁️ Cloud & DevOps**
  
-<img src="https://api.iconify.design/simple-icons:amazonaws.svg?color=%23FF9900" alt="AWS" title="AWS" height="40"/> <img src="https://api.iconify.design/simple-icons:git.svg?color=%23F05032" alt="Git" title="Git" height="40"/> <img src="https://api.iconify.design/simple-icons:githubactions.svg?color=%232088FF" alt="GitHub Actions" title="GitHub Actions" height="40"/> <img src="https://api.iconify.design/simple-icons:docker.svg?color=%232496ED" alt="Docker" title="Docker" height="40"/>
+<img src="https://api.iconify.design/simple-icons:amazonaws.svg?color=%23FF9900" alt="AWS" title="AWS" height="36"/> <img src="https://api.iconify.design/simple-icons:git.svg?color=%23F05032" alt="Git" title="Git" height="36"/> <img src="https://api.iconify.design/simple-icons:githubactions.svg?color=%232088FF" alt="GitHub Actions" title="GitHub Actions" height="36"/> <img src="https://api.iconify.design/simple-icons:docker.svg?color=%232496ED" alt="Docker" title="Docker" height="36"/>
