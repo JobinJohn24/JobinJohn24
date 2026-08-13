@@ -28,8 +28,6 @@
 
 ## 🔨 Currently Working On
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4facfe,100:a55eea&height=3&animation=fadeIn" width="100%"/>
-
 **Histopath_Agent** — AI model that reads breast tissue scans and classifies them by cancer risk, then writes up the findings in plain, readable language instead of just spitting out a number, tackling both the diagnosis and the trust problem that keeps a lot of medical AI out of real clinical use
 
 <p align="center">
