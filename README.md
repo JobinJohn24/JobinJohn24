@@ -14,47 +14,42 @@
 
 ## 💻 Tech Stack
  
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4facfe,100:a55eea&height=3&animation=fadeIn" width="100%"/>
- 
 **🧬 Bioinformatics & Genomics**
  
-<img src="https://api.iconify.design/simple-icons:bioconductor.svg?color=%23276DC3" alt="Bioconductor/R" title="Bioconductor/R" height="36"/> <img src="https://api.iconify.design/simple-icons:python.svg?color=%233776AB" alt="BioPython" title="BioPython" height="36"/> <img src="https://api.iconify.design/simple-icons:pandas.svg?color=%23150458" alt="pandas" title="pandas" height="36"/> <img src="https://api.iconify.design/simple-icons:numpy.svg?color=%23013243" alt="NumPy" title="NumPy" height="36"/>
- 
+![Bioconductor/R](https://img.shields.io/badge/Bioconductor%2FR-276DC3?style=flat-square&logo=r&logoColor=white) ![BioPython](https://img.shields.io/badge/BioPython-3776AB?style=flat-square&logo=python&logoColor=white) ![Genomic DBs](https://img.shields.io/badge/Genomic%20DBs-003B57?style=flat-square&logo=sqlite&logoColor=white) ![Pipeline Tools](https://img.shields.io/badge/Pipeline%20Tools-4B8BBE?style=flat-square&logoColor=white) ![BLAST](https://img.shields.io/badge/BLAST-20558A?style=flat-square&logoColor=white) ![NCBI/Ensembl](https://img.shields.io/badge/NCBI%2FEnsembl-1A5276?style=flat-square&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
  
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4facfe,100:a55eea&height=3&animation=fadeIn" width="100%"/>
- 
+
 **🤖 AI, LLMs & Quantum Computing**
  
-<img src="https://api.iconify.design/simple-icons:tensorflow.svg?color=%23FF6F00" alt="TensorFlow" title="TensorFlow" height="36"/> <img src="https://api.iconify.design/simple-icons:pytorch.svg?color=%23EE4C2C" alt="PyTorch" title="PyTorch" height="36"/> <img src="https://api.iconify.design/simple-icons:openai.svg?color=%23412991" alt="ChatGPT" title="ChatGPT" height="36"/> <img src="https://api.iconify.design/simple-icons:claude.svg?color=%23D97757" alt="Claude AI" title="Claude AI" height="36"/> <img src="https://api.iconify.design/simple-icons:googlegemini.svg?color=%238E75B2" alt="Gemini" title="Gemini" height="36"/> <img src="https://api.iconify.design/simple-icons:meta.svg?color=%230467DF" alt="Llama 3" title="Llama 3" height="36"/> <img src="https://api.iconify.design/simple-icons:qiskit.svg?color=%236929C4" alt="Qiskit" title="Qiskit" height="36"/>
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=flat-square&logo=openai&logoColor=white) ![Claude AI](https://img.shields.io/badge/Claude%20AI-D97757?style=flat-square&logo=claude&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) ![Llama 3](https://img.shields.io/badge/Llama%203-0467DF?style=flat-square&logo=meta&logoColor=white) ![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=flat-square&logo=qiskit&logoColor=white)
  
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4facfe,100:a55eea&height=3&animation=fadeIn" width="100%"/>
- 
+
 **🔬 Computational Modeling**
  
-<img src="https://api.iconify.design/simple-icons:cplusplus.svg?color=%2300599C" alt="C++ Simulation" title="C++ Simulation" height="36"/> <img src="https://api.iconify.design/simple-icons:scipy.svg?color=%238CAAE6" alt="SciPy" title="SciPy" height="36"/>
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logoColor=white) ![C++ Simulation](https://img.shields.io/badge/C%2B%2B%20Simulation-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
  
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4facfe,100:a55eea&height=3&animation=fadeIn" width="100%"/>
- 
+
 **⌨️ Languages**
  
-<img src="https://api.iconify.design/simple-icons:python.svg?color=%233776AB" alt="Python" title="Python" height="36"/> <img src="https://api.iconify.design/simple-icons:r.svg?color=%23276DC3" alt="R" title="R" height="36"/> <img src="https://api.iconify.design/simple-icons:cplusplus.svg?color=%2300599C" alt="C++" title="C++" height="36"/> <img src="https://api.iconify.design/simple-icons:javascript.svg?color=%23F7DF1E" alt="JavaScript" title="JavaScript" height="36"/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
  
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4facfe,100:a55eea&height=3&animation=fadeIn" width="100%"/>
- 
+
 **🗄️ Databases**
  
-<img src="https://api.iconify.design/simple-icons:postgresql.svg?color=%234169E1" alt="PostgreSQL" title="PostgreSQL" height="36"/> <img src="https://api.iconify.design/simple-icons:sqlite.svg?color=%23003B57" alt="SQLite" title="SQLite" height="36"/> <img src="https://api.iconify.design/simple-icons:mongodb.svg?color=%2347A248" alt="MongoDB" title="MongoDB" height="36"/>
- 
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
  
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4facfe,100:a55eea&height=3&animation=fadeIn" width="100%"/>
- 
+
 **🔒 Cybersecurity & Networking**
  
-<img src="https://api.iconify.design/simple-icons:kalilinux.svg?color=%23557C94" alt="Kali Linux" title="Kali Linux" height="36"/> <img src="https://api.iconify.design/simple-icons:powershell.svg?color=%235391FE" alt="PowerShell" title="PowerShell" height="36"/> <img src="https://api.iconify.design/simple-icons:wireshark.svg?color=%231679A7" alt="Wireshark" title="Wireshark" height="36"/>
- 
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white) ![Regex/Parsing](https://img.shields.io/badge/Regex%2FParsing-000000?style=flat-square&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
  
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4facfe,100:a55eea&height=3&animation=fadeIn" width="100%"/>
- 
+
 **☁️ Cloud & DevOps**
  
-<img src="https://api.iconify.design/simple-icons:amazonaws.svg?color=%23FF9900" alt="AWS" title="AWS" height="36"/> <img src="https://api.iconify.design/simple-icons:git.svg?color=%23F05032" alt="Git" title="Git" height="36"/> <img src="https://api.iconify.design/simple-icons:githubactions.svg?color=%232088FF" alt="GitHub Actions" title="GitHub Actions" height="36"/> <img src="https://api.iconify.design/simple-icons:docker.svg?color=%232496ED" alt="Docker" title="Docker" height="36"/>
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
