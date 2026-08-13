@@ -30,7 +30,7 @@
 
 **Histopath_Agent** 
 
-```AI model that reads breast tissue scans and classifies them by cancer risk, then writes up the findings in plain, readable language instead of just spitting out a number, tackling both the diagnosis and the trust problem that keeps a lot of medical AI out of real clinical use```
+```AI model that scans a convolutional vision model for tissue-scan risk classification with a language-generation layer that converts the model's output into a readable clinical summary, tackling both the detection and adoption problem.```
 
 <p align="center">
 <img src="https://api.iconify.design/simple-icons:python.svg?color=%233776AB" height="40"/> <img src="https://api.iconify.design/simple-icons:pytorch.svg?color=%23EE4C2C" height="40"/> <img src="https://api.iconify.design/simple-icons:tensorflow.svg?color=%23FF6F00" height="40"/>
