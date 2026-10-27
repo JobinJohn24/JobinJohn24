@@ -5,7 +5,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=650&size=46&duration=1900&pause=200&color=FF1449C5&background=550F0700&center=true&vCenter=true&multiline=true&width=1900&height=90&lines=Bioinformatics+%7C+Data+Science+%7C+Cybersecurity+%7C+Machine+Learning)](https://git.io/typing-svg)
 
 ---
----
 
 ## Contact
 
