@@ -4,17 +4,28 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=650&size=46&duration=1900&pause=200&color=FF1449C5&background=550F0700&center=true&vCenter=true&multiline=true&width=1900&height=90&lines=Bioinformatics+%7C+Data+Science+%7C+Cybersecurity+%7C+Machine+Learning)](https://git.io/typing-svg)
 
+## Contact 
 
-## Contact
-
-[![LinkedIn: Jobin John](https://img.shields.io/badge/LinkedIn-Jobin%20John-0072b1?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jobin-john-0a5942211/ "Connect on LinkedIn")
-[![Discord: Jobin John](https://img.shields.io/badge/Discord-Jobin%20John-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/HAUnqQsT "Join me on Discord")
-[![Kaggle: Jobin John](https://img.shields.io/badge/Kaggle-Jobin%20John-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/JobinJohn8824 "View my Kaggle projects")
-[![Orcid: Jobin John](https://img.shields.io/badge/Orcid-Jobin%20John-1F4056?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0008-6925-1234 "View my ORCID profile")
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-000000?style=flat&logo=vercel&logoColor=white)](https://portfolio-rust-eight-73.vercel.app/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-jobinjohn24-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/jobinjohn24/)
-
----
+<p align="left">
+  <a href="https://www.linkedin.com/in/jobin-john-0a5942211/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://portfolio-rust-eight-73.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://leetcode.com/u/jobinjohn24/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
+  <a href="https://www.kaggle.com/JobinJohn8824" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+  </a>
+  <a href="https://orcid.org/0009-0008-6925-1234" target="_blank">
+    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" />
+  </a>
+  <a href="https://discord.gg/HAUnqQsT" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+</p>
 
 ## Technical Skills
 
