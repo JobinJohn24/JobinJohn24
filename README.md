@@ -43,11 +43,11 @@
 ## Current Projects
 
 ### Histopath_Agent
-> An AI system that pairs a convolutional vision model for tissue-scan risk classification with a language-generation layer. The second component translates the model's output into a readable clinical summary, addressing both the detection challenge and the barrier to clinical adoption.
+> An AI-powered system that analyzes medical tissue scans for potential health risks identification. Using computer vision to detect patterns in tissue scans while a clinical summary is generated via a language generation model.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 
 ### Cloud Cost Optimizer
-> A SaaS platform that connects securely to a company's AWS account, identifies wasted spend in idle or oversized resources, and converts its findings into clear, actionable savings recommendations. It is being developed as a production product, with billing integrated from the outset rather than as a portfolio demonstration.
+> A SaaS platform that connects securely to a company's AWS account, identifies wasted spend in idle or oversized resources, and converts into finding ways to reduce cloud costs. It is being developed as a production product, with Stripe integration to manage subscriptions, billing, and payments
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white) ![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat&logo=amazoncloudwatch&logoColor=white)
